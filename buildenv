@@ -1,5 +1,5 @@
 # bump: zoslib-version /ZOSLIB_VERSION="(.*)"/ https://github.com/ibmruntimes/zoslib.git|semver:*
-ZOSLIB_VERSION="4.0.1"
+ZOSLIB_VERSION="4.0.0"
 
 export ZOPEN_BUILD_LINE="DEV"
 export ZOPEN_DEV_URL="https://github.com/ibmruntimes/zoslib.git"
