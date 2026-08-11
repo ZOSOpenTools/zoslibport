@@ -1,5 +1,5 @@
 # bump: zoslib-version /ZOSLIB_VERSION="(.*)"/ https://github.com/zopencommunity/zoslib.git|semver:*
-ZOSLIB_VERSION="4.0.5"
+ZOSLIB_VERSION="4.0.6"
 
 export ZOPEN_STABLE_TAG="v${ZOSLIB_VERSION}"
 export ZOPEN_BUILD_LINE="STABLE"
